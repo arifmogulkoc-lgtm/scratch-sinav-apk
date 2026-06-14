@@ -1,0 +1,454 @@
+[
+  {
+    "id": "1",
+    "text": "Scratch'te bir karakteri hareket ettirmek için hangi blok kullanılır?",
+    "type": "multiple_choice",
+    "difficulty": "easy",
+    "options": [
+      "Hareket",
+      "Görünüm",
+      "Olaylar",
+      "Kontrol"
+    ],
+    "answer": "Hareket",
+    "image": ""
+  },
+  {
+    "id": "2",
+    "text": "Bir olayın gerçekleşmesini beklemek için hangi blok kullanılır?",
+    "type": "multiple_choice",
+    "difficulty": "easy",
+    "options": [
+      "Tekrarla",
+      "Bekle",
+      "Eğer ise",
+      "Başladığında"
+    ],
+    "answer": "Bekle",
+    "image": ""
+  },
+  {
+    "id": "3",
+    "text": "Scratch'te bir karakterin rengini değiştirmek için hangi blok kullanılır?",
+    "type": "multiple_choice",
+    "difficulty": "easy",
+    "options": [
+      "Boyutunu değiştir",
+      "Rengini değiştir",
+      "Gizle",
+      "Göster"
+    ],
+    "answer": "Rengini değiştir",
+    "image": ""
+  },
+  {
+    "id": "4",
+    "text": "Scratch'te bir karakterin boyutunu küçültmek için hangi blok kullanılır?",
+    "type": "multiple_choice",
+    "difficulty": "easy",
+    "options": [
+      "Boyutunu 10 artır",
+      "Boyutunu %50 yap",
+      "Boyutunu 10 azalt",
+      "Boyutunu %100 yap"
+    ],
+    "answer": "Boyutunu 10 azalt",
+    "image": ""
+  },
+  {
+    "id": "5",
+    "text": "Aşağıdaki kod bloklarını doğru sıraya sürükleyerek karakterin 10 adım gitmesini ve sonra 1 saniye beklemesini sağlayın.",
+    "type": "drag_and_drop",
+    "difficulty": "easy",
+    "options": [
+      "10 adım git",
+      "1 saniye bekle"
+    ],
+    "answer": [
+      "10 adım git",
+      "1 saniye bekle"
+    ],
+    "image": ""
+  },
+  {
+    "id": "6",
+    "text": "Yeşil bayrağa tıklandığında karakterin 'Merhaba!' demesini sağlayan kod bloğunu oluşturun.",
+    "type": "drag_and_drop",
+    "difficulty": "easy",
+    "options": [
+      "tıklandığında",
+      "Merhaba! de"
+    ],
+    "answer": [
+      "tıklandığında",
+      "Merhaba! de"
+    ],
+    "image": ""
+  },
+  {
+    "id": "7",
+    "text": "Scratch'te bir döngü oluşturmak için hangi blok kullanılır?",
+    "type": "multiple_choice",
+    "difficulty": "medium",
+    "options": [
+      "Eğer ise",
+      "Tekrarla",
+      "Olaylar",
+      "Operatörler"
+    ],
+    "answer": "Tekrarla",
+    "image": ""
+  },
+  {
+    "id": "8",
+    "text": "Bir karakterin başka bir karaktere değip değmediğini kontrol etmek için hangi blok kullanılır?",
+    "type": "multiple_choice",
+    "difficulty": "medium",
+    "options": [
+      "Değiyor mu?",
+      "Mesafe",
+      "Renk değiyor mu?",
+      "Fare imlecine değiyor mu?"
+    ],
+    "answer": "Değiyor mu?",
+    "image": ""
+  },
+  {
+    "id": "9",
+    "text": "Aşağıdaki kod bloklarını doğru sıraya sürükleyerek karakterin sürekli olarak 10 adım gitmesini ve kenara geldiğinde sekmesini sağlayın.",
+    "type": "drag_and_drop",
+    "difficulty": "medium",
+    "options": [
+      "sürekli tekrarla",
+      "10 adım git",
+      "kenara geldiyse sektir"
+    ],
+    "answer": [
+      "sürekli tekrarla",
+      "10 adım git",
+      "kenara geldiyse sektir"
+    ],
+    "image": ""
+  },
+  {
+    "id": "10",
+    "text": "Bir değişken oluşturmak ve değerini 0 olarak ayarlamak için hangi bloklar kullanılır?",
+    "type": "drag_and_drop",
+    "difficulty": "medium",
+    "options": [
+      "değişken oluştur",
+      "değişkeni 0 yap"
+    ],
+    "answer": [
+      "değişken oluştur",
+      "değişkeni 0 yap"
+    ],
+    "image": ""
+  },
+  {
+    "id": "11",
+    "text": "Scratch'te bir fonksiyon (özel blok) tanımlamak için hangi kategori kullanılır?",
+    "type": "multiple_choice",
+    "difficulty": "hard",
+    "options": [
+      "Veri",
+      "Bloklarım",
+      "Operatörler",
+      "Kontrol"
+    ],
+    "answer": "Bloklarım",
+    "image": ""
+  },
+  {
+    "id": "12",
+    "text": "İki koşulun aynı anda doğru olmasını kontrol etmek için hangi operatör bloğu kullanılır?",
+    "type": "multiple_choice",
+    "difficulty": "hard",
+    "options": [
+      "ve",
+      "veya",
+      "değil",
+      "eşittir"
+    ],
+    "answer": "ve",
+    "image": ""
+  },
+  {
+    "id": "13",
+    "text": "Aşağıdaki kod bloklarını doğru sıraya sürükleyerek, eğer fare imlecine değiyorsa karakterin rengini değiştirmesini, değmiyorsa eski rengine dönmesini sağlayın.",
+    "type": "drag_and_drop",
+    "difficulty": "hard",
+    "options": [
+      "sürekli tekrarla",
+      "eğer fare imlecine değiyor ise",
+      "rengini değiştir",
+      "değilse",
+      "rengini eski haline getir"
+    ],
+    "answer": [
+      "sürekli tekrarla",
+      "eğer fare imlecine değiyor ise",
+      "rengini değiştir",
+      "değilse",
+      "rengini eski haline getir"
+    ],
+    "image": ""
+  },
+  {
+    "id": "14",
+    "text": "Bir listedeki elemanların toplamını hesaplayan bir kod bloğu dizisi oluşturun.",
+    "type": "drag_and_drop",
+    "difficulty": "hard",
+    "options": [
+      "toplamı 0 yap",
+      "her eleman için",
+      "toplamı eleman kadar değiştir"
+    ],
+    "answer": [
+      "toplamı 0 yap",
+      "her eleman için",
+      "toplamı eleman kadar değiştir"
+    ],
+    "image": ""
+  },
+  {
+    "id": "15",
+    "text": "Scratch'te bir karakterin x ve y koordinatlarını aynı anda ayarlamak için hangi blok kullanılır?",
+    "type": "multiple_choice",
+    "difficulty": "medium",
+    "options": [
+      "x konumunu ... yap",
+      "y konumunu ... yap",
+      "x: ... y: ... konumuna git",
+      "... saniyede x: ... y: ... konumuna süzül"
+    ],
+    "answer": "x: ... y: ... konumuna git",
+    "image": ""
+  },
+  {
+    "id": "16",
+    "text": "Bir koşul doğru olduğu sürece belirli bir eylemi tekrarlamak için hangi kontrol bloğu kullanılır?",
+    "type": "multiple_choice",
+    "difficulty": "hard",
+    "options": [
+      "... olana kadar bekle",
+      "... olana kadar tekrarla",
+      "sürekli tekrarla",
+      "... defa tekrarla"
+    ],
+    "answer": "... olana kadar tekrarla",
+    "image": ""
+  },
+  {
+    "id": "17",
+    "text": "Bir karakterin belirli bir yöne doğru dönmesini sağlamak için hangi blok kullanılır?",
+    "type": "multiple_choice",
+    "difficulty": "easy",
+    "options": [
+      "... yönüne dön",
+      "... derece dön",
+      "fare imlecine doğru dön",
+      "rastgele konuma git"
+    ],
+    "answer": "... yönüne dön",
+    "image": ""
+  },
+  {
+    "id": "18",
+    "text": "Bir mesaj yayınlamak ve diğer karakterlerin bu mesaja tepki vermesini sağlamak için hangi olay bloğu kullanılır?",
+    "type": "multiple_choice",
+    "difficulty": "medium",
+    "options": [
+      "mesajı yayınla",
+      "mesajı aldığımda",
+      "tıklandığında",
+      "boşluk tuşuna basılınca"
+    ],
+    "answer": "mesajı yayınla",
+    "image": ""
+  },
+  {
+    "id": "19",
+    "text": "Aşağıdaki kod bloklarını doğru sıraya sürükleyerek, bir sayı 5'ten büyükse 'Büyük' desin, değilse 'Küçük' desin.",
+    "type": "drag_and_drop",
+    "difficulty": "medium",
+    "options": [
+      "eğer sayı > 5 ise",
+      "Büyük de",
+      "değilse",
+      "Küçük de"
+    ],
+    "answer": [
+      "eğer sayı > 5 ise",
+      "Büyük de",
+      "değilse",
+      "Küçük de"
+    ],
+    "image": ""
+  },
+  {
+    "id": "20",
+    "text": "Bir karakterin görünümünü değiştirmek için hangi blok kullanılır?",
+    "type": "multiple_choice",
+    "difficulty": "easy",
+    "options": [
+      "sonraki kostüm",
+      "boyutunu değiştir",
+      "rengini değiştir",
+      "gizle"
+    ],
+    "answer": "sonraki kostüm",
+    "image": ""
+  },
+  {
+    "id": "21",
+    "text": "Bir karakterin belirli bir saniye içinde başka bir konuma yavaşça hareket etmesini sağlayan blok hangisidir?",
+    "type": "multiple_choice",
+    "difficulty": "medium",
+    "options": [
+      "x: ... y: ... konumuna git",
+      "... saniyede x: ... y: ... konumuna süzül",
+      "10 adım git",
+      "rastgele konuma git"
+    ],
+    "answer": "... saniyede x: ... y: ... konumuna süzül",
+    "image": ""
+  },
+  {
+    "id": "22",
+    "text": "Bir karakterin ses çıkarmasını sağlamak için hangi blok kullanılır?",
+    "type": "multiple_choice",
+    "difficulty": "easy",
+    "options": [
+      "sesi başlat",
+      "sesi durdur",
+      "ses seviyesini değiştir",
+      "enstrümanı ayarla"
+    ],
+    "answer": "sesi başlat",
+    "image": ""
+  },
+  {
+    "id": "23",
+    "text": "Aşağıdaki kod bloklarını doğru sıraya sürükleyerek, bir sayının tek mi çift mi olduğunu kontrol eden bir kod dizisi oluşturun.",
+    "type": "drag_and_drop",
+    "difficulty": "hard",
+    "options": [
+      "eğer sayı mod 2 = 0 ise",
+      "Çift sayı de",
+      "değilse",
+      "Tek sayı de"
+    ],
+    "answer": [
+      "eğer sayı mod 2 = 0 ise",
+      "Çift sayı de",
+      "değilse",
+      "Tek sayı de"
+    ],
+    "image": ""
+  },
+  {
+    "id": "24",
+    "text": "Bir karakterin bir liste oluşturmasını ve bu listeye eleman eklemesini sağlayan bloklar hangileridir?",
+    "type": "drag_and_drop",
+    "difficulty": "medium",
+    "options": [
+      "liste oluştur",
+      "listeye ... ekle"
+    ],
+    "answer": [
+      "liste oluştur",
+      "listeye ... ekle"
+    ],
+    "image": ""
+  },
+  {
+    "id": "25",
+    "text": "Scratch'te bir oyunun skorunu tutmak için ne kullanılır?",
+    "type": "multiple_choice",
+    "difficulty": "easy",
+    "options": [
+      "Liste",
+      "Değişken",
+      "Mesaj",
+      "Kostüm"
+    ],
+    "answer": "Değişken",
+    "image": ""
+  },
+  {
+    "id": "26",
+    "text": "Bir karakterin sahneden kaybolmasını sağlamak için hangi blok kullanılır?",
+    "type": "multiple_choice",
+    "difficulty": "easy",
+    "options": [
+      "Göster",
+      "Gizle",
+      "Kostüm değiştir",
+      "Boyutunu değiştir"
+    ],
+    "answer": "Gizle",
+    "image": ""
+  },
+  {
+    "id": "27",
+    "text": "Aşağıdaki kod bloklarını doğru sıraya sürükleyerek, bir karakterin 3 farklı kostüm arasında sürekli geçiş yapmasını sağlayın.",
+    "type": "drag_and_drop",
+    "difficulty": "hard",
+    "options": [
+      "sürekli tekrarla",
+      "sonraki kostüm",
+      "0.5 saniye bekle"
+    ],
+    "answer": [
+      "sürekli tekrarla",
+      "sonraki kostüm",
+      "0.5 saniye bekle"
+    ],
+    "image": ""
+  },
+  {
+    "id": "28",
+    "text": "Bir karakterin klavyeden bir tuşa basıldığında tepki vermesini sağlamak için hangi olay bloğu kullanılır?",
+    "type": "multiple_choice",
+    "difficulty": "medium",
+    "options": [
+      "tıklandığında",
+      "boşluk tuşuna basılınca",
+      "bu kuklaya tıklanınca",
+      "arka plan ... olunca"
+    ],
+    "answer": "boşluk tuşuna basılınca",
+    "image": ""
+  },
+  {
+    "id": "29",
+    "text": "Aşağıdaki kod bloklarını doğru sıraya sürükleyerek, bir karakterin fare imlecine doğru dönmesini ve 5 adım gitmesini sağlayın.",
+    "type": "drag_and_drop",
+    "difficulty": "easy",
+    "options": [
+      "fare imlecine doğru dön",
+      "5 adım git"
+    ],
+    "answer": [
+      "fare imlecine doğru dön",
+      "5 adım git"
+    ],
+    "image": ""
+  },
+  {
+    "id": "30",
+    "text": "Bir karakterin belirli bir süre sonra otomatik olarak gizlenmesini sağlayan kod bloğu dizisi oluşturun.",
+    "type": "drag_and_drop",
+    "difficulty": "medium",
+    "options": [
+      "2 saniye bekle",
+      "gizle"
+    ],
+    "answer": [
+      "2 saniye bekle",
+      "gizle"
+    ],
+    "image": ""
+  }
+]
