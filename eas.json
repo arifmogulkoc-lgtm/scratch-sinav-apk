@@ -1,0 +1,19 @@
+{
+  "build": {
+    "preview": {
+      "android": "preview"
+    },
+    "preview2": {
+      "android": "preview"
+    },
+    "preview3": {
+      "android": "preview"
+    },
+    "production": {
+      "android": "production"
+    }
+  },
+  "submit": {
+    "production": {}
+  }
+}

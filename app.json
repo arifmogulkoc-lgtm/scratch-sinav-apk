@@ -1,0 +1,44 @@
+{
+  "expo": {
+    "name": "Scratch Sınav",
+    "slug": "scratch-sinav",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./client/public/favicon.ico",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./client/public/favicon.ico",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTabletMode": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./client/public/favicon.ico",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.scratchquiz.app",
+      "versionCode": 1
+    },
+    "web": {
+      "favicon": "./client/public/favicon.ico"
+    },
+    "plugins": [
+      [
+        "expo-build-properties",
+        {
+          "android": {
+            "compileSdkVersion": 35,
+            "targetSdkVersion": 35,
+            "minSdkVersion": 24
+          }
+        }
+      ]
+    ]
+  }
+}
